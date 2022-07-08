@@ -1,28 +1,14 @@
 title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+description: Hack the planet; | Security Researcher
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-hacker
 
 theme: jekyll-theme-hacker
 
-name: Co0nan blog
-description: Offensive Security Consultant
+name: Prosox blog
+description: Penetration tester | Bug hunter 
 avatar: ../images/logo.jpeg
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: Co0nan
-  instagram:
-  linkedin: tarek-mohammed99
-  pinterest:
-  rss: 
-  twitter: Conan0x3
-  stackoverflow: 
-  youtube: 
-  googleplus:
+  twitter: Moustafa0x04
 
 
 disqus:
