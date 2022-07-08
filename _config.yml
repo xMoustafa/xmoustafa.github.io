@@ -1,11 +1,9 @@
 title: Hacker theme
-description: Hack the planet; | Security Researcher
+description: Hack the planet; | Security Researcher | Bug hunter
 show_downloads: false
 
 theme: jekyll-theme-hacker
 
-name: Prosox blog
-description: Penetration tester | Bug hunter 
 avatar: ../images/logo.jpeg
 footer-links:
   twitter: Moustafa0x04
